@@ -1,0 +1,164 @@
+{
+  "business": {
+    "name": "Urban Threads Co.",
+    "type": "Online clothing store",
+    "support_email": "support@urbanthreads.example",
+    "support_phone": "+1-555-010-2020",
+    "brand_tone": "Friendly, short, helpful, and modern"
+  },
+  "fallback": {
+    "answer": "Sorry, I do not have enough information about that. Please contact Urban Threads Co. support at support@urbanthreads.example or +1-555-010-2020."
+  },
+  "faqs": [
+    {
+      "category": "Shipping",
+      "question": "How long does delivery take?",
+      "answer": "Standard delivery usually takes 3-5 business days after your order is confirmed.",
+      "keywords": ["shipping", "delivery", "deliver", "arrive", "days", "time"]
+    },
+    {
+      "category": "Shipping",
+      "question": "Do you offer express shipping?",
+      "answer": "Yes, express shipping is available in selected areas and usually takes 1-2 business days.",
+      "keywords": ["express", "fast shipping", "quick delivery", "urgent delivery"]
+    },
+    {
+      "category": "Shipping",
+      "question": "Do you ship internationally?",
+      "answer": "At the moment, Urban Threads Co. only ships within the United States.",
+      "keywords": ["international", "worldwide", "outside country", "overseas"]
+    },
+    {
+      "category": "Shipping",
+      "question": "How much does shipping cost?",
+      "answer": "Standard shipping costs $4.99. Orders over $75 qualify for free standard shipping.",
+      "keywords": ["shipping cost", "delivery fee", "free shipping", "charges"]
+    },
+    {
+      "category": "Orders",
+      "question": "How can I place an order?",
+      "answer": "You can place an order by choosing your item, selecting size and color, adding it to cart, and completing checkout.",
+      "keywords": ["place order", "buy", "purchase", "checkout", "cart"]
+    },
+    {
+      "category": "Orders",
+      "question": "Can I change my order after placing it?",
+      "answer": "You can request an order change within 2 hours of placing the order by contacting support.",
+      "keywords": ["change order", "edit order", "modify order", "wrong order"]
+    },
+    {
+      "category": "Orders",
+      "question": "Can I cancel my order?",
+      "answer": "You can request cancellation within 2 hours of placing the order if it has not been processed yet.",
+      "keywords": ["cancel", "cancel order", "stop order", "remove order"]
+    },
+    {
+      "category": "Orders",
+      "question": "How can I track my order?",
+      "answer": "Once your order ships, you will receive a tracking link by email.",
+      "keywords": ["track", "tracking", "order status", "where is my order"]
+    },
+    {
+      "category": "Payments",
+      "question": "What payment methods do you accept?",
+      "answer": "We accept Visa, Mastercard, American Express, PayPal, Apple Pay, and Google Pay.",
+      "keywords": ["payment", "pay", "card", "paypal", "apple pay", "google pay"]
+    },
+    {
+      "category": "Payments",
+      "question": "Do you offer cash on delivery?",
+      "answer": "No, Urban Threads Co. does not offer cash on delivery at this time.",
+      "keywords": ["cash on delivery", "cod", "pay cash", "cash"]
+    },
+    {
+      "category": "Payments",
+      "question": "Is online payment secure?",
+      "answer": "Yes, payments are processed through secure third-party payment providers. We do not store card details.",
+      "keywords": ["secure payment", "safe payment", "card security", "payment safe"]
+    },
+    {
+      "category": "Returns",
+      "question": "What is your return policy?",
+      "answer": "You can return eligible items within 14 days of delivery if they are unused, unwashed, and have original tags attached.",
+      "keywords": ["return", "return policy", "send back", "refund"]
+    },
+    {
+      "category": "Returns",
+      "question": "Are sale items returnable?",
+      "answer": "Final sale items cannot be returned unless they arrive damaged or incorrect.",
+      "keywords": ["sale item", "discount item", "final sale", "return sale"]
+    },
+    {
+      "category": "Returns",
+      "question": "How do I start a return?",
+      "answer": "To start a return, contact support with your order number and reason for return.",
+      "keywords": ["start return", "return item", "return process", "how to return"]
+    },
+    {
+      "category": "Refunds",
+      "question": "How long does a refund take?",
+      "answer": "Approved refunds are usually processed within 5-7 business days after we receive the returned item.",
+      "keywords": ["refund", "money back", "refund time", "get money back"]
+    },
+    {
+      "category": "Exchanges",
+      "question": "Can I exchange an item?",
+      "answer": "Yes, exchanges are allowed within 14 days if the item is unused, unwashed, and has original tags attached.",
+      "keywords": ["exchange", "change size", "change item", "swap"]
+    },
+    {
+      "category": "Exchanges",
+      "question": "Can I exchange for a different size?",
+      "answer": "Yes, you can exchange for a different size if the requested size is available.",
+      "keywords": ["different size", "wrong size", "size exchange", "does not fit"]
+    },
+    {
+      "category": "Sizing",
+      "question": "How do I choose the right size?",
+      "answer": "Please check our size guide before ordering. If you are between sizes, we recommend choosing the larger size.",
+      "keywords": ["size", "sizing", "size guide", "fit", "measurements"]
+    },
+    {
+      "category": "Sizing",
+      "question": "Do your clothes run small or large?",
+      "answer": "Most Urban Threads Co. items fit true to size. Product pages may mention if an item has a relaxed or slim fit.",
+      "keywords": ["run small", "run large", "true to size", "fit type"]
+    },
+    {
+      "category": "Products",
+      "question": "Do you restock sold out items?",
+      "answer": "Popular items may be restocked. You can sign up for restock alerts on the product page when available.",
+      "keywords": ["restock", "sold out", "out of stock", "available again"]
+    },
+    {
+      "category": "Products",
+      "question": "Are product colors exactly like the photos?",
+      "answer": "We try to show colors accurately, but slight color differences may happen because of screen settings and lighting.",
+      "keywords": ["color", "photos", "picture", "same color", "shade"]
+    },
+    {
+      "category": "Discounts",
+      "question": "Do you offer discount codes?",
+      "answer": "Discount codes are sometimes shared through our email newsletter and seasonal promotions.",
+      "keywords": ["discount", "coupon", "promo code", "promotion", "sale"]
+    },
+    {
+      "category": "Discounts",
+      "question": "Can I use more than one discount code?",
+      "answer": "Only one discount code can be used per order.",
+      "keywords": ["multiple discount", "two coupons", "combine codes", "more than one code"]
+    },
+    {
+      "category": "Contact",
+      "question": "How can I contact customer support?",
+      "answer": "You can contact Urban Threads Co. support at support@urbanthreads.example or +1-555-010-2020.",
+      "keywords": ["contact", "support", "help", "email", "phone"]
+    },
+    {
+      "category": "Contact",
+      "question": "What are your customer support hours?",
+      "answer": "Customer support is available Monday to Friday, 9 AM to 6 PM Eastern Time.",
+      "keywords": ["support hours", "timing", "open", "customer service time"]
+    }
+  ]
+}
