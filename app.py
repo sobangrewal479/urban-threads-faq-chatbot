@@ -1,6 +1,7 @@
 import streamlit as st
 
 from src.faq_engine import find_best_answer
+from src.logger import log_question
 
 
 st.set_page_config(
@@ -21,6 +22,12 @@ if st.button("Ask"):
         st.warning("Please type a question first.")
     else:
         result = find_best_answer(user_question)
+
+        log_question(
+            user_question=user_question,
+            category=result["category"],
+            status=result["status"]
+        )
 
         st.subheader("Answer")
         st.write(result["answer"])
