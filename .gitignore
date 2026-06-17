@@ -5,3 +5,4 @@ __pycache__/
 logs/questions_log.csv
 *.pyc
 .DS_Store
+*.docx
