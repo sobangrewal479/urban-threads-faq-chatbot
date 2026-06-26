@@ -8,7 +8,7 @@ This project was created as a beginner-friendly freelance portfolio project. It 
 
 ## Demo Video
 
-Watch the demo here: https://youtu.be/RSkBSBx0j_I
+Watch the demo here: https://youtu.be/kVewED4mZgM
 
 This demo shows the AI FAQ chatbot answering common ecommerce customer support questions from approved FAQ data. It also shows an out-of-scope question test where the chatbot avoids guessing when the answer is not available in the FAQ knowledge base.
 
