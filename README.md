@@ -6,6 +6,14 @@ This project was created as a beginner-friendly freelance portfolio project. It 
 
 ---
 
+## Demo Video
+
+Watch the demo here: https://youtu.be/RSkBSBx0j_I
+
+This demo shows the AI FAQ chatbot answering common ecommerce customer support questions from approved FAQ data. It also shows an out-of-scope question test where the chatbot avoids guessing when the answer is not available in the FAQ knowledge base.
+
+---
+
 ## Project Goal
 
 Urban Threads Co. receives repeated customer questions about store policies. The goal of this chatbot is to give customers quick answers from a fixed FAQ knowledge base and reduce repetitive support work.
